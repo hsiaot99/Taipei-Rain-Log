@@ -16,3 +16,4 @@
 - 2026-07-11T19:04Z (UTC) | Taipei rain probability: 90% | source: fallback (weather.com) | url: https://weather.com/weather/today/l/ce745664a88b5afafeb9b67d548ae1f5cfbcc2631f3cb119d921b2c8ca7a20be
 - 2026-07-11T20:04Z (UTC) | Taipei rain probability: 72% | source: fallback (AccuWeather) | url: https://www.accuweather.com/en/tw/taipei-city/315078/hourly-weather-forecast/315078
 - 2026-07-11T21:04Z (UTC) | Taipei rain probability: 72% | source: fallback (AccuWeather) | url: https://www.accuweather.com/en/tw/taipei-city/315078/hourly-weather-forecast/315078
+- 2026-07-11T22:04Z (UTC) | Taipei rain probability: 60% | source: fallback (weather.com) | url: https://weather.com/weather/today/l/fe7393b7f2c8eed2cf692bd079361df362d9f0c1c0f896e6e46a649295e15c7d
