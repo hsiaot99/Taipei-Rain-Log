@@ -58,3 +58,4 @@
 - 2026-07-13T17:06Z (UTC) | Taipei rain probability: data unavailable | source: none attempted successfully | url: https://weather.com/weather/hourbyhour/l/fe7393b7f2c8eed2cf692bd079361df362d9f0c1c0f896e6e46a649295e15c7d
 - 2026-07-13T18:04Z (UTC) | Taipei rain probability: 50% | source: CWA | url: https://www.cwa.gov.tw/V8/C/W/County/County.html?CID=63
 - 2026-07-13T19:05Z (UTC) | Taipei rain probability: 40% | source: fallback (weather.com) | url: https://weather.com/weather/today/l/d357f08735408ecba1ca2cb0961fb423059f506d67b053ae6107c5e508362efa
+- 2026-07-13T20:04Z (UTC) | Taipei rain probability: 50% | source: fallback (weather.com) | url: https://weather.com/weather/today/l/fe7393b7f2c8eed2cf692bd079361df362d9f0c1c0f896e6e46a649295e15c7d
